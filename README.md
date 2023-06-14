@@ -183,6 +183,10 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 </div>
 </div>
+<span class='small'>
+
+Estatísticas geradas com auxilio do plugin [@lowlighter/metrics](https://github.com/lowlighter/metrics) [^3]
+</span>
 </details>
 </div>
 
