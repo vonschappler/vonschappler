@@ -187,4 +187,5 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 </div>
 
 [^1]: Estatísticas de visitas, em relação ao repositório principal, [vonschappler.github.io](https://github.com/vonschappler/vonschappler.github.io)
-[^2]: A contagem de repositórios não abrange os repositórios privados.
+[^2]: A contagem de repositórios não abrange os repositórios privados
+[^3]: Alguns dos dados estatísticos são atualizados a cada 4 horas
