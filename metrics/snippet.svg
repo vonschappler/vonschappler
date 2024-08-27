@@ -45,7 +45,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">3a3c0c48</span>
-                            <span class="code">Base-CRA-NoTw</span>
+                            <span class="code">Base-Vite-latest-NoTw</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -56,7 +56,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Subproject commit e8e4e78ec7cf4e20598aa7ff5e3d4716a78711d7<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Subproject commit 236faec7b3c7c228feca81352523425c6eb0af46</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Subproject commit 11fef18f3a7c8728db958f31d70a010381146fbb<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Subproject commit 084e903301a79186d6b3078b8844090f8e6b3d40</span></span></code>
                         </div>
                     </section>
                 </div>
