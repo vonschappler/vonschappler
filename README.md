@@ -23,7 +23,7 @@ E esses são dados gerais sobre esta conta no Github:
 
 <div class='container justify-content-center'>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&redirect=true)
+[![spotify-github-profile](https://https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&redirect=true)
 
 </div>
 
@@ -187,6 +187,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 Estatísticas geradas com auxilio do plugin [@lowlighter/metrics](https://github.com/lowlighter/metrics) [^3]
 </span>
+
 </details>
 </div>
 
