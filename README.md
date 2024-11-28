@@ -27,7 +27,6 @@ E esses são dados gerais sobre esta conta no Github:
 </div>
 
 - Tenho conhecimento nas seguintes linguagens de programação:
-<div>
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -37,16 +36,14 @@ E esses são dados gerais sobre esta conta no Github:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB%&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&labelColor=52B0E7&logoColor=FFF&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=fff&style=for-the-badge)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-
-</div>
 
 - Estou aprendendo a trabalhar com React
 - Estou preparando cursos para publicar na Udemy
