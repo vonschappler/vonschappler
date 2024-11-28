@@ -52,7 +52,8 @@ E esses são dados gerais sobre esta conta no Github:
   - Programar
   - Aprender novas coisas
   - Filmes
-  </details>
+
+</details>
 
 ---
 
@@ -71,12 +72,8 @@ E esses são dados gerais sobre esta conta no Github:
 
 Para saber um pouco mais sobre o profissional von Schappler, visite:
 
-<div>
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manoelviturino)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/von_schappler)
-
-</div>
 
 <h4> Estatísticas de minha página pessoal:</h4>
 
