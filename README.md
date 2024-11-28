@@ -27,36 +27,23 @@ E esses são dados gerais sobre esta conta no Github:
 </div>
 
 - Tenho conhecimento nas seguintes linguagens de programação:
-<div style='display: flex; justify-content: center; align-items:center; gap:1rem; width:100%; flex-wrap: wrap'>
+<div>
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-
 ![FomanticUi](https://img.shields.io/badge/Fomantic%20Ui-16b2ab?&logo=semanticui&logoColor=fff&style=for-the-badge)
-
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=fff&style=for-the-badge)
-
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff&style=for-the-badge)
-
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB%&style=for-the-badge)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
-
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
-
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&labelColor=52B0E7&logoColor=FFF&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
-
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
-
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=fff&style=for-the-badge)
-
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff&style=for-the-badge)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 </div>
@@ -87,10 +74,9 @@ E esses são dados gerais sobre esta conta no Github:
 
 Para saber um pouco mais sobre o profissional von Schappler, visite:
 
-<div style='display: flex; justify-content: center; align-items:center; gap:1rem; width:100%; flex-wrap: wrap'>
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manoelviturino)
-
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/von_schappler)
 
 </div>
