@@ -58,18 +58,19 @@ It's hard for me to "list" my current tech-stack, so I'll provide the list below
 
 ### Profile status:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center'>
+<div align='center'>
 
-![visitors](https://badges.pufler.dev/visits/vonschappler/vonschappler.github.io?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Profile+Views)
-
-![repos](https://badges.pufler.dev/repos/vonschappler?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Public+Repositories)
+![visitors](https://badges.pufler.dev/visits/vonschappler/vonschappler.github.io?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Profile+Views) ![repos](https://badges.pufler.dev/repos/vonschappler?style=for-the-badge&color=16b2ab&labelColor=1b1c1d&label=Public+Repositories)
 </div>
 
 ### Git activity:
 
-<div style='display: flex; justify-items: center; gap: 5rem; align-items: center'>
+<div align='center'>
 
 ![streak-stats](https://streak-stats.demolab.com?user=vonschappler&theme=ambient-gradient&hide_border=true&locale=en_US&mode=weekly&background=45%2C1b1c1d%2C16b2ab&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&excludeDaysLabel=ffffff)
+</div>
+
+<div align='center'>
 
 ![chart](https://shieldcn.dev/chart/github/commits/vonschappler.svg?align=true&theme=green&font=roboto&color=16b2ab&bg=transparent&border=false&logo=false&width=auto&height=auto&icon=lu%3ACode&yScale=log&xTicks=10)
 </div>
@@ -78,61 +79,58 @@ It's hard for me to "list" my current tech-stack, so I'll provide the list below
 
 ### Current contributions:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center;'>
+<div align='center'>
 
 ![isocalendar](metrics/isocalendar.svg)
 </div>
 
 ### Code snippet of the day:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center;'>
+<div align='center'>
 
 ![snippet](metrics/snippet.svg)
 </div>
 
 ### Issues vs PR comparison:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center;'>
+<div align='center'>
 
 ![followup](metrics/followup.svg)
 </div>
 
 ### Interactions:
 
-<div style="display: grid !important; grid-template-columns: 1fr; gap: 0.25rem; justify-items: center;">
-
-  <div>
+<div align='center'>
   
   ![people](metrics/people.svg)
   </div>
 
-  <div>
+  <div align='center'>
   
   ![reactions](metrics/reactions.svg)
   </div>
 
-  <div>
+  <div align='center'>
   
   ![stars](metrics/stars.svg)
   </div>
 
-  <div>
+  <div align='center'>
   
   ![stargazers](metrics/stargazers.svg)
   </div>
-</div>
 
 
 ### Leetcode Status:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center;'>
+<div align='center'>
 
 ![leetcode](metrics/leetcode.svg)
 </div>
 
 ### Summary:
 
-<div style='display: flex; justify-content: center; gap: 5rem; align-items: center;'>
+<div align='center'>
 
 ![summary](metrics/summary.svg)
 </div>
